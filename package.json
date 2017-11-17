@@ -1,0 +1,25 @@
+{
+  "name": "nodejs_socketio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tukida/nodejs_socketio.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tukida/nodejs_socketio/issues"
+  },
+  "homepage": "https://github.com/tukida/nodejs_socketio#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "jquery": "^3.2.1",
+    "node-static": "^0.7.10",
+    "socket.io": "^2.0.4"
+  }
+}
